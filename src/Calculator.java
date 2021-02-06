@@ -1,8 +1,4 @@
-import static java.lang.Math.sqrt;
-import static java.lang.Math.round;
-import static java.lang.Math.max;
-import static java.lang.Math.min;
-import static java.lang.Math.ceil;
+import static java.lang.Math.*;
 
 public class Calculator {
     public static void main(String[] args){
