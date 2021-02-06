@@ -8,7 +8,7 @@ public class Calculator {
     public static void main(String[] args){
         double doc = sqrt(2223320);
         System.out.println(doc);
-        //получаем корень данного значения 1491.0801453979595
+        //извлекаем квадратный корень данного значения 1491.0801453979595
 
         double roundd = round(233.99999999f);
         System.out.println(roundd);
@@ -24,8 +24,7 @@ public class Calculator {
 
         double ceill = ceil(2412.413232);
         System.out.println(ceill);
-        //вычисляем и возвращаем наименьшее целое число,
-        //которое больше или равно переданному числу, тоист округляем число вверх
+        //вне зависимости от значений дробной части, округляем числа в большую сторону
 
 
 
